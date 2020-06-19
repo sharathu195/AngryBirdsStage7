@@ -1,2 +1,2 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# AngryBirdsStage7
+Stage 7 Angry Birds: Bird trajectory and arrays
